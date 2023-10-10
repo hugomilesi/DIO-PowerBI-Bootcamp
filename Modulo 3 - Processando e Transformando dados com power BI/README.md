@@ -1,6 +1,6 @@
 # Etapas de Transformação
 
-- Aa tabelas "departament, dependent, dept_locations, employee, project, works_on" foram renomeadas para: "departamento, dependente, local_departamento, funcionario, projetos, setor_de_trabalho" para uma melhor leitura.
+- As tabelas "departament, dependent, dept_locations, employee, project, works_on" foram renomeadas para: "departamento, dependente, local_departamento, funcionario, projetos, setor_de_trabalho" para uma melhor leitura.
 
 - Valores monetários foram convertidos para decimal.
 
